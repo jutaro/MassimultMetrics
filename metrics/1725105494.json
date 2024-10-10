@@ -1,0 +1,22 @@
+{
+  "alive_cell_count": 102,
+  "binary_timestamp": "2024-08-31T11:51:21Z",
+  "collect_every_num_reductions": 128,
+  "collection_count": 164,
+  "combinator_set_name": "KS",
+  "cpu_arch": "arm64",
+  "cpu_model": "Apple M1 Pro",
+  "cpu_time_ms": 977.009,
+  "fruitless_checker_job_count": 996588,
+  "git_commit": "cfd9a4bad5e4db66dab2de4bff454796530e52f5",
+  "hardware_concurrency": 8,
+  "job_efficiency_coefficient": 0.029735281804640114,
+  "optimize_code": 0,
+  "os_arch": "Darwin",
+  "program_name": "Suite.Plus99Bin",
+  "reduction_count": 20908,
+  "total_job_count": 1027130,
+  "used_cell_count": 14757,
+  "wall_time_ms": 193.383917,
+  "worker_thread_count": 8
+}

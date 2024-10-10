@@ -1,0 +1,15 @@
+{
+  "binary_timestamp": "2024-08-31T11:51:21Z",
+  "collect_every_num_reductions": 128,
+  "combinator_set_name": "KVY",
+  "cpu_arch": "arm64",
+  "cpu_model": "Apple M1 Pro",
+  "git_commit": "cfd9a4bad5e4db66dab2de4bff454796530e52f5",
+  "hardware_concurrency": 8,
+  "optimize_code": 0,
+  "os_arch": "Darwin",
+  "program_name": "Suite.Faculty10",
+  "wall_time_ms": null,
+  "comment": "ERROR: Atomic_inc_ref_count: max refcountAtomic_inc_ref_count: max refcount",
+  "worker_thread_count": 8
+}
